@@ -73,7 +73,6 @@ class NewVisitorTest(LiveServerTestCase):
 
         # The site has generated a unique url to remember her list, and there is
         # some text to indicate this
-        self.fail('Finish the test!')
 
         # She visits the URL - her list is still there
 
